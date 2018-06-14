@@ -9,4 +9,7 @@ You can easily grap all the live streaming of user through AI python Script.
 Final output command .
  $ python save-make.py -shape-predictor shape_predictor_68_face_landmarks.dat
 
+For 
+shape_predictor_68_face_landmarks.dat file you can go for this link .
+
 
