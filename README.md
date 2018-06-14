@@ -1,7 +1,7 @@
 # webcamera-capture-live-streaming
 
 
-This is open cv algorith that is used for capturing your live camera into video file .
+This is open cv algorithm that is used for capturing your live camera into video file .
 
 You can easily grap all the live streaming of user through AI python Script.
 
@@ -12,6 +12,9 @@ Final output command .
 For 
 shape_predictor_68_face_landmarks.dat file you can go for this link .
 https://drive.google.com/file/d/1lzXTNebqOir21s-jWMxph2SxyS9Jm85M/view?usp=sharing
+
+
+Use it and crack the others live webcameras.
 
 
 
